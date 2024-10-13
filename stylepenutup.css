@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6e8f1; /* Warna latar belakang pink */
+    display: flex;
+    justify-content: center; /* Pusatkan secara horizontal */
+    align-items: center; /* Pusatkan secara vertikal */
+    height: 100vh; /* Membuat halaman mengambil tinggi penuh dari viewport */
+    font-family: Arial, sans-serif; /* Font yang digunakan */
+}
+
+h1 {
+    color: #ab477b; /* Warna teks */
+    font-size: 36px; /* Ukuran teks */
+    text-align: center; /* Teks rata tengah */
+}
